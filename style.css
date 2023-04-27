@@ -100,3 +100,21 @@ label{
     text-align:justify;
     font-size: 150%;
 }
+
+div.listas{
+    text-align: center;
+}
+
+div ul{
+    display: inline-block;
+    text-align: left;
+    /* text-align: center; */
+    list-style-position: inside;
+}
+
+div ol{
+    display: inline-block;
+    text-align: left;
+    /* text-align: center; */
+    list-style-position: inside;
+}
