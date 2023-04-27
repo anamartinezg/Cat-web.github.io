@@ -1,2 +1,2 @@
 # anamartinezg.github.io
-Página de gatitos usando HTML Y CSS
+Web Gatuna usando HTML Y CSS
